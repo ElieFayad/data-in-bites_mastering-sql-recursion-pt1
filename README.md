@@ -24,6 +24,9 @@ Welcome! This repository contains all the code, configuration scripts, and suppo
 Read the full article for context, explanations, and walkthroughs:  
 👉 [https://datainbites.hashnode.dev/mastering-sql-recursion-part-1](https://datainbites.hashnode.dev/mastering-sql-recursion-part-1)
 
+Want to learn more about this topic? Check out the full series here:  
+👉 [https://datainbites.hashnode.dev/series/mastering-sql-recursion](https://datainbites.hashnode.dev/series/mastering-sql-recursion)
+
 ## 📜 License
 
 MIT License – free to use, share, and modify. See LICENSE for details.
